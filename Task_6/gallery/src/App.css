@@ -1,0 +1,13 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+img {
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(232, 227, 227, 0.2);
+}
